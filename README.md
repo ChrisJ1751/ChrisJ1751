@@ -47,7 +47,7 @@
 | Company                       | Job Title                                           | Sector        |Duration            |
 | ------------------------------| --------------------------------------------------- |---------------|--------------------|
 | BCA Envrionmental Consultants | Field Scientist and Data Analyst                    | Environmental |Jan 2022 - Present  |
-| U.S. Dept of Agriculture      | Plant Patholgoy Research Scientist and Data Analyst | Research/Gov  |Feb 2020 - Jan 2022 |
+| U.S. Dept of Agriculture      | Plant Pathology Research Scientist and Data Analyst | Research/Gov  |Feb 2020 - Jan 2022 |
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
