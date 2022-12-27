@@ -17,6 +17,8 @@
 
 - Microsoft Azure Data Systems
 - Machine Learning w/ Python
+- Advanced SQL Scripting
+- Advanced Tableau
 
 <br />
 
