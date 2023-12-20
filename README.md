@@ -48,6 +48,8 @@
 
 | Company                       | Job Title                                           | Sector        |Duration            |
 | ------------------------------| --------------------------------------------------- |---------------|--------------------|
+| Sungage Financial             | Business Analyst                                    | FinTech       |July 2023 - Present |
+| Sungage Financial             | Associate Business Analyst                          | FinTech       |Feb 2023 - July 2023|
 | BCA Envrionmental Consultants | Field Scientist and Data Analyst                    | Environmental |Jan 2022 - Present  |
 | U.S. Dept of Agriculture      | Plant Pathology Research Scientist and Data Analyst | Research/Gov  |Feb 2020 - Jan 2022 |
 
